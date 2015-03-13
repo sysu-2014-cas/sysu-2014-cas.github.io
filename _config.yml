@@ -69,6 +69,7 @@ theme: next
 deploy:
   type: git
   repo: git@github.com:sysu-2014-cas/sysu-2014-cas.github.io.git
+  branch: master
 
 disqus_shortname: "ss2014cas"
 
