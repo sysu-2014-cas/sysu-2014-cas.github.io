@@ -1,0 +1,52 @@
+---
+layout: post
+
+title: 第十周作业
+cover_image: homework.jpg
+
+excerpt: "2014学年第十周作业"
+
+author:
+  name: Joyee Cheung
+  email: joyeec9h3@gmail.com
+  bio: 12计应 张秋怡
+  image: joyee.png
+---
+
+###算法分析与设计
+
+* [郭老11月大礼包]({% post_url 2014-10-14-algorithm-oct-nov %})
+* [1153]({{ site.sicily }}/1153) 马周游问题 解题报告
+* 报告格式见第一个ppt
+* 死线：11月30日
+* 提交方法：以`12345678_张三_第三章作业.pdf`的格式发送到 [sysualgorithm2014@163.com](mailto:sysualgorithm2014@163.com)
+* 提示：周五晚在 sicily 上开模拟测试
+
+###人工智能
+
+* 需要做大作业的需要在12周前写好开题报告并提交，具体下周上课公布
+
+###编译原理
+
+* 大作业：手写实现SSQL lexer, parser, interpreter
+* 细节参见群上PPT
+
+###数字图像处理
+
+* HW3, 参见[课程主页](http://gitl.sysu.edu.cn/dip/doku.php)
+* 死线：12月2日 21:00
+* 提示：11周（下周）期中考试，内容包括前四章，4~5题，80~100分钟
+    * 往届期中试卷/答案可在 [12年的课程主页](http://gitl.sysu.edu.cn/dipo/) 找到
+* 11月29日下午2:30，B104习题答疑课，自愿参加
+
+###计算机网络
+
+* 作业
+    * Chapter3: P3 P5 P7 P9 P12 P13 P25 P28 P30 P34 P36 P38 P41 P42
+    * 下周交
+
+###计算机网络实验
+
+* 完成“实验六 RIP路由实验”
+* 下周上课前将报告与心得提交到ftp
+

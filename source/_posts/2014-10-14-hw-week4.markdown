@@ -1,0 +1,44 @@
+---
+layout: post
+
+title: 第四周作业
+cover_image: homework.jpg
+
+excerpt: "2014学年第四周作业"
+
+author:
+  name: Joyee Cheung
+  email: joyeec9h3@gmail.com
+  bio: 12计应 张秋怡
+  image: joyee.png
+---
+
+###算法分析与设计
+
+* [郭老10月大礼包]({% post_url 2014-10-01-hw-week2 %})，30号前交1151解题报告。
+* [郭老11月大礼包]({% post_url 2014-10-14-algorithm-oct-nov %})，11月月底交。
+
+###数字图像处理
+
+参见[课程主页](http://gitl.sysu.edu.cn/dip/doku.php) HW1，10月21日前交。
+
+2014-10-15 (重要)调课通知：
+10月22日数媒班和专选班的课都调至10月18日(星期六)上午3-5节(9:50开始)，地点B204。请大家相互告知。
+
+温馨提示：第三章学完就要考傅立叶级数。
+
+###计算机网络
+Chapter2：P3，P4，P7，P8，P9，P11，P14，P15，P21，P23
+
+下下周上课交。
+
+###Web安全
+据说本周是Assignment 1死线，可是没说提交方式。
+
+* Assignment 1.
+  * Show me how MD5 works.
+  * Design an executable MD5 program in C/C++ with some short samples.
+* Assignment 2. Write a short thesis on one of the three applications
+  * MD5 and password protection.
+  * AES and Wi‐Fi protected access.
+  * RSA and electronic business.

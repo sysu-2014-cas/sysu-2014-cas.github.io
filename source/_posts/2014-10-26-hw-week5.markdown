@@ -1,0 +1,70 @@
+---
+layout: post
+
+title: 2014学年第五周作业
+cover_image: homework.jpg
+
+excerpt: "2014学年第五周作业"
+
+authors:
+- name: 埃菲尔铁塔
+  email: 7077804@qq.com
+  bio: 12计应 刘振东
+  image: jayD.jpg
+- name: Joyee Cheung
+  email: joyeec9h3@gmail.com
+  bio: 12计应 张秋怡
+  image: joyee.png
+---
+
+###算法分析与设计
+* [1151]({{ site.sicily }}/1151) 魔板B 解题报告
+* 报告格式见第一个ppt
+* 死线：10月30日
+* 提交方法：TA正在安排
+
+###数字图像处理
+
+* 参见[课程主页](http://gitl.sysu.edu.cn/dip/doku.php) HW2
+* 死线：11月4日
+* 提交方法：ftp 参见[课程主页](http://gitl.sysu.edu.cn/dip/doku.php)
+* 温馨提示：下周上课考傅里叶级数
+
+###计算机网络
+
+* 英文第四版书本Chapter2题目：P3, P4, P7, P8, P9, P11, P14, P15, P21, P23
+* 死线：10月28日
+* 提交方法：上课交
+
+###计网实验
+
+* HTTP与FTP协议实验
+* 死线：下周上课前
+* 提交方法：提交至FTP
+* 课件和材料在FTP上有。
+* 命名方式：见FTP上的实验报告模版
+
+###人工智能
+
+* 图像消噪小组作业，已上传群共享（AI-HW1-image-denosing.pdf）
+* 死线：发布作业起一个月（老师是10.22说的）
+
+###编译原理
+
+* ISBN与token的JFlex词法分析器生成文件
+* 死线：10月31日
+* PPT和.zip已上传至群共享（编译原理HW1 说明---更新版编译原理作业包）
+* 提交方法：由学委统一收齐发给TA
+* 命名规范： 学号-名字拼音-hw1.zip
+    * 12345678-zhangsan-hw1.zip
+* 注意：此为个人作业，非小组作业
+
+###Web安全
+
+* Assignment 3: Give me an example of X.509 certificate and tell me how it works.
+* 死线：?
+* 提交方法：参见群共享（Web Security ss2012 考勤和平时记分册（TA分配新）.xls） 或者公邮
+提交格式请参见公邮
+* 命名规范：1233XXXX_中文名_Assign_X.xxx
+    * 12334567_张三_Assign_3.pdf
+* 另：今天(10.26)为止还没交Assignment1和Assignment2的赶快交。

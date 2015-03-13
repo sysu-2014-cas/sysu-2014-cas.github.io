@@ -1,0 +1,65 @@
+---
+layout: post
+
+title: 第八周作业
+cover_image: homework.jpg
+
+excerpt: "2014学年第八周作业"
+
+author:
+  name: Joyee Cheung
+  email: joyeec9h3@gmail.com
+  bio: 12计应 张秋怡
+  image: joyee.png
+---
+
+###算法分析与设计
+
+* [郭老11月大礼包]({% post_url 2014-10-14-algorithm-oct-nov %})
+* [1153]({{ site.sicily }}/1153) 马周游问题 解题报告
+* 报告格式见第一个ppt
+* 死线：11月30日
+* 提交方法：以`12345678_张三_第三章作业.pdf`的格式发送到 [sysualgorithm2014@163.com](mailto:sysualgorithm2014@163.com)
+
+###人工智能
+
+* 二值图降噪。具体参见公共度盘上的`关于人工智能课程项目要求.docx`
+* 死线：11月18日
+* 提交方法
+    * 以邮件形式将文件以及源代码压缩好后发送到[ssAI2014@163.com](ssAI2014@163.com)
+    * 邮件名及附件要求为：必（选）修班_第X小组。
+
+###编译原理
+
+* 使用 flex 与 bison 实现简易计算器
+* 详细参见公共度盘上的`编译原理/编译原理hw2`下文件
+* 死线：11月16日 23：59
+* 提交到负责人开的FTP上
+
+###数字图像处理
+
+* HW3, 参见[课程主页](http://gitl.sysu.edu.cn/dip/doku.php)
+* 死线：12月2日 21:00
+* 温馨提示：第四章学完后会有期中考试
+
+###计算机网络
+
+* 11月25日期中考试
+
+###Web安全
+
+* 参照公邮上的课件：Chap5 Network Attack and Defence.pdf
+* Assignment 6
+    * Discuss Hashed password with salted value in more detail
+* Assignment 7
+    * Finish the attack as shown above, tell me how the stack frame changed.
+    * If you are on GNU, you need to do
+
+        ```
+        sudo sysctl –w kernel.randomize_va_space=0
+        ```
+
+      and use the option `‐fno‐stack‐protector` of gcc compiler.
+* Assignment 8
+    * 适当描述 ICMP Flood 和 DDoS 攻击的技术细节，并搜寻实例加以说明。
+* 死线：下周（你没有看错。“我们要的不是质量，是数量”  -- by 老师）

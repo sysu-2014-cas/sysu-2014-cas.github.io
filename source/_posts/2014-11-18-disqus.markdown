@@ -1,0 +1,16 @@
+---
+layout: post
+
+title: 添加评论功能
+cover_image: homework.jpg
+
+excerpt: "注册了一个disqus，现在可以评论啦~"
+
+author:
+  name: Joyee Cheung
+  email: joyeec9h3@gmail.com
+  bio: 12计应 张秋怡
+  image: joyee.png
+---
+
+注册了一个disqus，现在可以评论啦~

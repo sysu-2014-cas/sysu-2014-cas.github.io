@@ -1,0 +1,30 @@
+---
+layout: post
+
+title: 第一周作业
+cover_image: homework.jpg
+
+excerpt: "2014学年第一周作业"
+
+author:
+  name: Joyee Cheung
+  email: joyeec9h3@gmail.com
+  bio: 12计应 张秋怡
+  image: joyee.png
+---
+
+###算法分析与设计
+
+* [1020]({{ site.sicily }}/1020) 大数求模
+* [1021]({{ site.sicily }}/1021) 简单题 -> 规模原来很大 -> 难 ->数据结构: 栈
+* [1027]({{ site.sicily }}/1027) 简单题
+* [1035]({{ site.sicily }}/1035) 简单题
+* [1046]({{ site.sicily }}/1046) 排序
+* [1051]({{ site.sicily }}/1051) 简单题
+* [1198]({{ site.sicily }}/1198) 8个串排出最小字典序(8!枚举）
+* [1176]({{ site.sicily }}/1176) 两人从两头取数
+
+###计算机网络
+Due 9/30 in class.
+
+Problems in Chapter 1: p5, p7, p13, p18, p20, p24
