@@ -11,6 +11,7 @@ Install dependencies:
 $ git clone git@github.com:sysu-2014-cas/sysu-2014-cas.github.io.git
 $ cd sysu-2014-cas.github.io
 $ npm install
+$ git clone https://github.com/iissnan/hexo-theme-next themes/next
 ```
 
 ## Writing
@@ -35,4 +36,10 @@ Run server:
 
 ``` bash
 $ hexo server
+```
+
+Deploy
+
+``` bash
+$ hexo deploy
 ```
