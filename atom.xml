@@ -1,0 +1,447 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title><![CDATA[SYSU CAS 2014]]></title>
+  <subtitle><![CDATA[SYSU, School of Software, Computer Application Software, Class 2014]]></subtitle>
+  <link href="/atom.xml" rel="self"/>
+  <link href="http://sysu-2014-cas.github.io/"/>
+  <updated>2015-03-13T16:38:47.000Z</updated>
+  <id>http://sysu-2014-cas.github.io/</id>
+  
+  <author>
+    <name><![CDATA[SYSU CAS 2014]]></name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title><![CDATA[第十周作业]]></title>
+    <link href="http://sysu-2014-cas.github.io/2014/11/28/hw-week10/"/>
+    <id>http://sysu-2014-cas.github.io/2014/11/28/hw-week10/</id>
+    <published>2014-11-27T16:00:00.000Z</published>
+    <updated>2015-03-13T16:38:47.000Z</updated>
+    <content type="html"><![CDATA[<h3 id="算法分析与设计">算法分析与设计</h3><ul>
+<li><a href="!--￼0--">郭老11月大礼包</a></li>
+<li><a href="!--￼1--&gt;/1153">1153</a> 马周游问题 解题报告</li>
+<li>报告格式见第一个ppt</li>
+<li>死线：11月30日</li>
+<li>提交方法：以<code>12345678_张三_第三章作业.pdf</code>的格式发送到 <a href="mailto:sysualgorithm2014@163.com" target="_blank" rel="external">sysualgorithm2014@163.com</a></li>
+<li>提示：周五晚在 sicily 上开模拟测试</li>
+</ul>
+<h3 id="人工智能">人工智能</h3><ul>
+<li>需要做大作业的需要在12周前写好开题报告并提交，具体下周上课公布</li>
+</ul>
+<h3 id="编译原理">编译原理</h3><ul>
+<li>大作业：手写实现SSQL lexer, parser, interpreter</li>
+<li>细节参见群上PPT</li>
+</ul>
+<h3 id="数字图像处理">数字图像处理</h3><ul>
+<li>HW3, 参见<a href="http://gitl.sysu.edu.cn/dip/doku.php" target="_blank" rel="external">课程主页</a></li>
+<li>死线：12月2日 21:00</li>
+<li>提示：11周（下周）期中考试，内容包括前四章，4~5题，80~100分钟<ul>
+<li>往届期中试卷/答案可在 <a href="http://gitl.sysu.edu.cn/dipo/" target="_blank" rel="external">12年的课程主页</a> 找到</li>
+</ul>
+</li>
+<li>11月29日下午2:30，B104习题答疑课，自愿参加</li>
+</ul>
+<h3 id="计算机网络">计算机网络</h3><ul>
+<li>作业<ul>
+<li>Chapter3: P3 P5 P7 P9 P12 P13 P25 P28 P30 P34 P36 P38 P41 P42</li>
+<li>下周交</li>
+</ul>
+</li>
+</ul>
+<h3 id="计算机网络实验">计算机网络实验</h3><ul>
+<li>完成“实验六 RIP路由实验”</li>
+<li>下周上课前将报告与心得提交到ftp</li>
+</ul>
+]]></content>
+    <summary type="html">
+    <![CDATA[<h3 id="算法分析与设计">算法分析与设计</h3><ul>
+<li><a href="!--￼0--">郭老11月大礼包</a></li>
+<li><a href="!--￼1--&gt;/1153">1153</a> 马周游问题 解题报告</li>
+<li>报告格式见第]]>
+    </summary>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[第九周作业]]></title>
+    <link href="http://sysu-2014-cas.github.io/2014/11/21/hw-week9/"/>
+    <id>http://sysu-2014-cas.github.io/2014/11/21/hw-week9/</id>
+    <published>2014-11-20T16:00:00.000Z</published>
+    <updated>2015-03-13T16:38:47.000Z</updated>
+    <content type="html"><![CDATA[<h3 id="算法分析与设计">算法分析与设计</h3><ul>
+<li><a href="!--￼0--">郭老11月大礼包</a></li>
+<li><a href="!--￼1--&gt;/1153">1153</a> 马周游问题 解题报告</li>
+<li>报告格式见第一个ppt</li>
+<li>死线：11月30日</li>
+<li>提交方法：以<code>12345678_张三_第三章作业.pdf</code>的格式发送到 <a href="mailto:sysualgorithm2014@163.com" target="_blank" rel="external">sysualgorithm2014@163.com</a></li>
+<li>提示：下周五晚会在 sicily 上开模拟测试</li>
+</ul>
+<h3 id="人工智能">人工智能</h3><ul>
+<li>需要做大作业的需要在12周前写好开题报告并提交，具体下周上课公布</li>
+<li>课本第14章 14.14 下周交</li>
+</ul>
+<h3 id="编译原理">编译原理</h3><ul>
+<li>大作业：手写实现SSQL lexer, parser, interpreter</li>
+<li>更多细节有待下周公布</li>
+</ul>
+<h3 id="数字图像处理">数字图像处理</h3><ul>
+<li>HW3, 参见<a href="http://gitl.sysu.edu.cn/dip/doku.php" target="_blank" rel="external">课程主页</a></li>
+<li>死线：12月2日 21:00</li>
+<li>提示：11周（下下周）期中考试，内容包括前四章，4~5题，80~100分钟<ul>
+<li>往届期中试卷/答案可在 <a href="http://gitl.sysu.edu.cn/dipo/" target="_blank" rel="external">12年的课程主页</a> 找到</li>
+</ul>
+</li>
+</ul>
+<h3 id="计算机网络">计算机网络</h3><ul>
+<li>作业<ul>
+<li>Chapter3: P3 P5 P7 P9 P12 P13 P25 P28 P30 P34 P36 P38 P41 P42</li>
+<li>下下周交</li>
+</ul>
+</li>
+<li>期中考试<ul>
+<li>11月25（周二）下午3:20 - 5:20 在E101</li>
+<li>参见<a href="http://ss.sysu.edu.cn/InformationSystem/Article.aspx?id=7728" target="_blank" rel="external">学院网通知</a></li>
+</ul>
+</li>
+</ul>
+<h3 id="计算机网络实验">计算机网络实验</h3><ul>
+<li>完成“三层交换机实验VLAN间路由”实验</li>
+<li>下周上课前将报告与心得提交到ftp</li>
+</ul>
+]]></content>
+    <summary type="html">
+    <![CDATA[<h3 id="算法分析与设计">算法分析与设计</h3><ul>
+<li><a href="!--￼0--">郭老11月大礼包</a></li>
+<li><a href="!--￼1--&gt;/1153">1153</a> 马周游问题 解题报告</li>
+<li>报告格式见第]]>
+    </summary>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[添加评论功能]]></title>
+    <link href="http://sysu-2014-cas.github.io/2014/11/18/disqus/"/>
+    <id>http://sysu-2014-cas.github.io/2014/11/18/disqus/</id>
+    <published>2014-11-17T16:00:00.000Z</published>
+    <updated>2015-03-13T16:38:47.000Z</updated>
+    <content type="html"><![CDATA[<p>注册了一个disqus，现在可以评论啦~</p>
+]]></content>
+    <summary type="html">
+    <![CDATA[<p>注册了一个disqus，现在可以评论啦~</p>
+]]>
+    </summary>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[第八周作业]]></title>
+    <link href="http://sysu-2014-cas.github.io/2014/11/16/hw-week8/"/>
+    <id>http://sysu-2014-cas.github.io/2014/11/16/hw-week8/</id>
+    <published>2014-11-15T16:00:00.000Z</published>
+    <updated>2015-03-13T16:38:47.000Z</updated>
+    <content type="html"><![CDATA[<h3 id="算法分析与设计">算法分析与设计</h3><ul>
+<li><a href="!--￼1--">郭老11月大礼包</a></li>
+<li><a href="!--￼2--&gt;/1153">1153</a> 马周游问题 解题报告</li>
+<li>报告格式见第一个ppt</li>
+<li>死线：11月30日</li>
+<li>提交方法：以<code>12345678_张三_第三章作业.pdf</code>的格式发送到 <a href="mailto:sysualgorithm2014@163.com" target="_blank" rel="external">sysualgorithm2014@163.com</a></li>
+</ul>
+<h3 id="人工智能">人工智能</h3><ul>
+<li>二值图降噪。具体参见公共度盘上的<code>关于人工智能课程项目要求.docx</code></li>
+<li>死线：11月18日</li>
+<li>提交方法<ul>
+<li>以邮件形式将文件以及源代码压缩好后发送到<a href="ssAI2014@163.com">ssAI2014@163.com</a></li>
+<li>邮件名及附件要求为：必（选）修班_第X小组。</li>
+</ul>
+</li>
+</ul>
+<h3 id="编译原理">编译原理</h3><ul>
+<li>使用 flex 与 bison 实现简易计算器</li>
+<li>详细参见公共度盘上的<code>编译原理/编译原理hw2</code>下文件</li>
+<li>死线：11月16日 23：59</li>
+<li>提交到负责人开的FTP上</li>
+</ul>
+<h3 id="数字图像处理">数字图像处理</h3><ul>
+<li>HW3, 参见<a href="http://gitl.sysu.edu.cn/dip/doku.php" target="_blank" rel="external">课程主页</a></li>
+<li>死线：12月2日 21:00</li>
+<li>温馨提示：第四章学完后会有期中考试</li>
+</ul>
+<h3 id="计算机网络">计算机网络</h3><ul>
+<li>11月25日期中考试</li>
+</ul>
+<h3 id="Web安全">Web安全</h3><ul>
+<li>参照公邮上的课件：Chap5 Network Attack and Defence.pdf</li>
+<li>Assignment 6<ul>
+<li>Discuss Hashed password with salted value in more detail</li>
+</ul>
+</li>
+<li><p>Assignment 7</p>
+<ul>
+<li>Finish the attack as shown above, tell me how the stack frame changed.</li>
+<li><p>If you are on GNU, you need to do</p>
+  <figure class="highlight autohotkey"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">sudo sysctl –w kernel.randomize_v<span class="built_in">a_space</span>=<span class="number">0</span></span><br></pre></td></tr></table></figure>
+<p>and use the option <code>‐fno‐stack‐protector</code> of gcc compiler.</p>
+</li>
+</ul>
+</li>
+<li>Assignment 8<ul>
+<li>适当描述 ICMP Flood 和 DDoS 攻击的技术细节，并搜寻实例加以说明。</li>
+</ul>
+</li>
+<li>死线：下周（你没有看错。“我们要的不是质量，是数量”  — by 老师）</li>
+</ul>
+]]></content>
+    <summary type="html">
+    <![CDATA[<h3 id="算法分析与设计">算法分析与设计</h3><ul>
+<li><a href="!--￼1--">郭老11月大礼包</a></li>
+<li><a href="!--￼2--&gt;/1153">1153</a> 马周游问题 解题报告</li>
+<li>报告格式见第]]>
+    </summary>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[2014学年第五周作业]]></title>
+    <link href="http://sysu-2014-cas.github.io/2014/10/26/hw-week5/"/>
+    <id>http://sysu-2014-cas.github.io/2014/10/26/hw-week5/</id>
+    <published>2014-10-25T16:00:00.000Z</published>
+    <updated>2015-03-13T16:38:47.000Z</updated>
+    <content type="html"><![CDATA[<h3 id="算法分析与设计">算法分析与设计</h3><ul>
+<li><a href="!--￼0--&gt;/1151">1151</a> 魔板B 解题报告</li>
+<li>报告格式见第一个ppt</li>
+<li>死线：10月30日</li>
+<li>提交方法：TA正在安排</li>
+</ul>
+<h3 id="数字图像处理">数字图像处理</h3><ul>
+<li>参见<a href="http://gitl.sysu.edu.cn/dip/doku.php" target="_blank" rel="external">课程主页</a> HW2</li>
+<li>死线：11月4日</li>
+<li>提交方法：ftp 参见<a href="http://gitl.sysu.edu.cn/dip/doku.php" target="_blank" rel="external">课程主页</a></li>
+<li>温馨提示：下周上课考傅里叶级数</li>
+</ul>
+<h3 id="计算机网络">计算机网络</h3><ul>
+<li>英文第四版书本Chapter2题目：P3, P4, P7, P8, P9, P11, P14, P15, P21, P23</li>
+<li>死线：10月28日</li>
+<li>提交方法：上课交</li>
+</ul>
+<h3 id="计网实验">计网实验</h3><ul>
+<li>HTTP与FTP协议实验</li>
+<li>死线：下周上课前</li>
+<li>提交方法：提交至FTP</li>
+<li>课件和材料在FTP上有。</li>
+<li>命名方式：见FTP上的实验报告模版</li>
+</ul>
+<h3 id="人工智能">人工智能</h3><ul>
+<li>图像消噪小组作业，已上传群共享（AI-HW1-image-denosing.pdf）</li>
+<li>死线：发布作业起一个月（老师是10.22说的）</li>
+</ul>
+<h3 id="编译原理">编译原理</h3><ul>
+<li>ISBN与token的JFlex词法分析器生成文件</li>
+<li>死线：10月31日</li>
+<li>PPT和.zip已上传至群共享（编译原理HW1 说明—-更新版编译原理作业包）</li>
+<li>提交方法：由学委统一收齐发给TA</li>
+<li>命名规范： 学号-名字拼音-hw1.zip<ul>
+<li>12345678-zhangsan-hw1.zip</li>
+</ul>
+</li>
+<li>注意：此为个人作业，非小组作业</li>
+</ul>
+<h3 id="Web安全">Web安全</h3><ul>
+<li>Assignment 3: Give me an example of X.509 certificate and tell me how it works.</li>
+<li>死线：?</li>
+<li>提交方法：参见群共享（Web Security ss2012 考勤和平时记分册（TA分配新）.xls） 或者公邮<br>提交格式请参见公邮</li>
+<li>命名规范：1233XXXX_中文名_Assign_X.xxx<ul>
+<li>12334567_张三_Assign_3.pdf</li>
+</ul>
+</li>
+<li>另：今天(10.26)为止还没交Assignment1和Assignment2的赶快交。</li>
+</ul>
+]]></content>
+    <summary type="html">
+    <![CDATA[<h3 id="算法分析与设计">算法分析与设计</h3><ul>
+<li><a href="!--￼0--&gt;/1151">1151</a> 魔板B 解题报告</li>
+<li>报告格式见第一个ppt</li>
+<li>死线：10月30日</li>
+<li>提交方法：TA正]]>
+    </summary>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[第四周作业]]></title>
+    <link href="http://sysu-2014-cas.github.io/2014/10/14/hw-week4/"/>
+    <id>http://sysu-2014-cas.github.io/2014/10/14/hw-week4/</id>
+    <published>2014-10-13T16:00:00.000Z</published>
+    <updated>2015-03-13T16:38:47.000Z</updated>
+    <content type="html"><![CDATA[<h3 id="算法分析与设计">算法分析与设计</h3><ul>
+<li><a href="!--￼0--">郭老10月大礼包</a>，30号前交1151解题报告。</li>
+<li><a href="!--￼1--">郭老11月大礼包</a>，11月月底交。</li>
+</ul>
+<h3 id="数字图像处理">数字图像处理</h3><p>参见<a href="http://gitl.sysu.edu.cn/dip/doku.php" target="_blank" rel="external">课程主页</a> HW1，10月21日前交。</p>
+<p>2014-10-15 (重要)调课通知：<br>10月22日数媒班和专选班的课都调至10月18日(星期六)上午3-5节(9:50开始)，地点B204。请大家相互告知。</p>
+<p>温馨提示：第三章学完就要考傅立叶级数。</p>
+<h3 id="计算机网络">计算机网络</h3><p>Chapter2：P3，P4，P7，P8，P9，P11，P14，P15，P21，P23</p>
+<p>下下周上课交。</p>
+<h3 id="Web安全">Web安全</h3><p>据说本周是Assignment 1死线，可是没说提交方式。</p>
+<ul>
+<li>Assignment 1.<ul>
+<li>Show me how MD5 works.</li>
+<li>Design an executable MD5 program in C/C++ with some short samples.</li>
+</ul>
+</li>
+<li>Assignment 2. Write a short thesis on one of the three applications<ul>
+<li>MD5 and password protection.</li>
+<li>AES and Wi‐Fi protected access.</li>
+<li>RSA and electronic business.</li>
+</ul>
+</li>
+</ul>
+]]></content>
+    <summary type="html">
+    <![CDATA[<h3 id="算法分析与设计">算法分析与设计</h3><ul>
+<li><a href="!--￼0--">郭老10月大礼包</a>，30号前交1151解题报告。</li>
+<li><a href="!--￼1--">郭老11月大礼包</a>，11月月底交。</li>
+</u]]>
+    </summary>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[算法分析与设计 10月&11月sicily题目]]></title>
+    <link href="http://sysu-2014-cas.github.io/2014/10/14/algorithm-oct-nov/"/>
+    <id>http://sysu-2014-cas.github.io/2014/10/14/algorithm-oct-nov/</id>
+    <published>2014-10-13T16:00:00.000Z</published>
+    <updated>2015-03-13T16:38:47.000Z</updated>
+    <content type="html"><![CDATA[<p>10月14题，30号前交1151解题报告：<a href="!--￼0--">参见</a></p>
+<p>11月24题：</p>
+<ul>
+<li><a href="!--￼1--&gt;/1152">1152</a> 简单的马周游问题</li>
+<li><a href="!--￼2--&gt;/1153">1153</a> 马周游问题,要求写解题报告</li>
+<li><a href="!--￼3--&gt;/1093">1093</a> 枚举</li>
+<li><a href="!--￼4--&gt;/1134">1134</a> 贪心:从小到大排序</li>
+<li><a href="!--￼5--&gt;/1140">1140</a> 贪心:砍不大于n/2个节点的最大树枝</li>
+<li><a href="!--￼6--&gt;/1438">1438</a> 排序，隔三求和</li>
+<li><a href="!--￼7--&gt;/1028">1028</a> 梵塔问题 -&gt; 分治，归纳 -&gt; * 题目有意思但要留意其数据规模较大</li>
+<li><a href="!--￼8--&gt;/1029">1029</a> 递推高精度加法</li>
+<li><a href="!--￼9--&gt;/1381">1381</a> a*b 高精度</li>
+<li><a href="!--￼10--&gt;/1206">1206</a> 数值计算:解方程</li>
+<li><a href="!--￼11--&gt;/1172">1172</a> 染色模拟</li>
+<li><a href="!--￼12--&gt;/1034">1034</a> 队列与搜索</li>
+<li><a href="!--￼13--&gt;/1193">1193</a> 递推 较难</li>
+<li><a href="!--￼14--&gt;/1004">1004</a> 计算几何，判两线段是否重叠</li>
+<li><a href="!--￼15--&gt;/1012">1012</a> 简单计算几何，判两线段是否重叠</li>
+<li><a href="!--￼16--&gt;/1017">1017</a> 二分法求一元方程的根</li>
+<li><a href="!--￼17--&gt;/1059">1059</a> 简单计算几何，求线段相交</li>
+<li><a href="!--￼18--&gt;/1003">1003</a> 模拟题</li>
+<li><a href="!--￼19--&gt;/1018">1018</a> 模拟题</li>
+<li><a href="!--￼20--&gt;/1052">1052</a> 简单模拟题</li>
+<li><a href="!--￼21--&gt;/1041">1041</a> 中等模拟题</li>
+<li><a href="!--￼22--&gt;/1211">1211</a> 分治，求两点间L步到达的方法数</li>
+<li><a href="!--￼23--&gt;/1071">1071</a> 分治</li>
+<li><a href="!--￼24--&gt;/1082">1082</a> 数据结构题</li>
+</ul>
+]]></content>
+    <summary type="html">
+    <![CDATA[<p>10月14题，30号前交1151解题报告：<a href="!--￼0--">参见</a></p>
+<p>11月24题：</p>
+<ul>
+<li><a href="!--￼1--&gt;/1152">1152</a> 简单的马周游问题</li>
+<li><a href="]]>
+    </summary>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[第二周作业]]></title>
+    <link href="http://sysu-2014-cas.github.io/2014/10/01/hw-week2/"/>
+    <id>http://sysu-2014-cas.github.io/2014/10/01/hw-week2/</id>
+    <published>2014-09-30T16:00:00.000Z</published>
+    <updated>2015-03-13T16:38:47.000Z</updated>
+    <content type="html"><![CDATA[<h3 id="算法分析与设计">算法分析与设计</h3><ol>
+<li><p>例2.1 输入一串字符，以”?”结束,统计其中每个字符出现的次数.</p>
+<p> 1.考虑数据结构:用一维数组存放每个字母出现的次数,定义一个由26个字母组成的数组：</p>
+<pre><code>Num:<span class="keyword">array</span>[<span class="attribute">'a</span>'..<span class="literal">'z'</span>]<span class="keyword">of</span> <span class="typename">integer</span>
+</code></pre><p> 用<code>Num[&#39;a&#39;]</code>记录字母a出现次数，…… 用<code>Num[&#39;z&#39;]</code>记录字母z出现次数;</p>
+<p> 2.算法：</p>
+<pre><code><span class="number">1</span>）将数组元素清<span class="number">0</span>
+<span class="number">2</span>）读入第<span class="number">1</span>个字符;
+<span class="number">3</span>）<span class="keyword">WHILE</span> 读入字符不等于‘？’ <span class="keyword">DO</span>
+<span class="keyword">BEGIN</span>
+    <span class="number">4</span>）<span class="keyword">IF</span> ch 是字母 <span class="keyword">THEN</span> 相应字母计数加<span class="number">1</span>
+    <span class="number">5</span>）读入下一个字符
+<span class="keyword">END</span>
+<span class="number">6</span>）输出每个字母出现的次数。
+</code></pre><ol>
+<li><p>要求上机编程，用C++完成上述程序，并自行在机上运行，检测程序的正确性。</p>
+</li>
+<li><p>将题目改成从文件读入，输出到文件中。要求有5组测试数据，文件输入：</p>
+<ol>
+<li>第一组：10个字符；</li>
+<li>第二组：100个字符；</li>
+<li>第三组：1000个字符</li>
+<li>第四组：10000个字符；</li>
+<li><p>第五组：10万个字符；</p>
+<p>数据随机产生。</p>
+</li>
+</ol>
+</li>
+</ol>
+</li>
+</ol>
+<ol>
+<li><p>作业2.2 :简单魔板(<a href="!--￼0--&gt;/1150">sicily1150</a>)</p>
+<p> （思路请直接看课件OTZ 排版不动了）</p>
+</li>
+<li><a href="!--￼1--&gt;/1151">1151</a> 魔板B，<strong>要求写解题报告</strong></li>
+<li><a href="!--￼2--&gt;/1515">1515</a> 魔板C</li>
+<li><a href="!--￼3--&gt;/1007">1007</a> 数组与下标（二维数组） 简单</li>
+<li><a href="!--￼4--&gt;/1036">1036</a> 数组与下标（二维数组） 简单</li>
+<li><a href="!--￼5--&gt;/1006">1006</a> 栈与回溯 简单  5!搜索</li>
+<li><a href="!--￼6--&gt;/1009">1009</a> 梅森素数</li>
+<li><a href="!--￼7--&gt;/1050">1050</a> 回溯， DFS求5个数可否运算得到目标数, 否则输出可得到的小于目标数的最大数.</li>
+<li><a href="!--￼8--&gt;/1443">1443</a> 基本队列操作</li>
+<li><a href="!--￼9--&gt;/1156">1156</a> 深优 指针 简单树的遍历</li>
+<li><a href="!--￼10--&gt;/1063">1063</a> 排序后递推</li>
+<li><a href="!--￼11--&gt;/1024">1024</a> 树的遍历</li>
+<li>作业3.1 Sicily <a href="!--￼12--&gt;/1152">1152</a> 简单的马周游问题</li>
+</ol>
+]]></content>
+    <summary type="html">
+    <![CDATA[<h3 id="算法分析与设计">算法分析与设计</h3><ol>
+<li><p>例2.1 输入一串字符，以”?”结束,统计其中每个字符出现的次数.</p>
+<p> 1.考虑数据结构:用一维数组存放每个字母出现的次数,定义一个由26个字母组成的数组：</p>
+<pre><code]]>
+    </summary>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[第一周作业]]></title>
+    <link href="http://sysu-2014-cas.github.io/2014/09/27/hw-week1/"/>
+    <id>http://sysu-2014-cas.github.io/2014/09/27/hw-week1/</id>
+    <published>2014-09-26T16:00:00.000Z</published>
+    <updated>2015-03-13T16:38:47.000Z</updated>
+    <content type="html"><![CDATA[<h3 id="算法分析与设计">算法分析与设计</h3><ul>
+<li><a href="!--￼0--&gt;/1020">1020</a> 大数求模</li>
+<li><a href="!--￼1--&gt;/1021">1021</a> 简单题 -&gt; 规模原来很大 -&gt; 难 -&gt;数据结构: 栈</li>
+<li><a href="!--￼2--&gt;/1027">1027</a> 简单题</li>
+<li><a href="!--￼3--&gt;/1035">1035</a> 简单题</li>
+<li><a href="!--￼4--&gt;/1046">1046</a> 排序</li>
+<li><a href="!--￼5--&gt;/1051">1051</a> 简单题</li>
+<li><a href="!--￼6--&gt;/1198">1198</a> 8个串排出最小字典序(8!枚举）</li>
+<li><a href="!--￼7--&gt;/1176">1176</a> 两人从两头取数</li>
+</ul>
+<h3 id="计算机网络">计算机网络</h3><p>Due 9/30 in class.</p>
+<p>Problems in Chapter 1: p5, p7, p13, p18, p20, p24</p>
+]]></content>
+    <summary type="html">
+    <![CDATA[<h3 id="算法分析与设计">算法分析与设计</h3><ul>
+<li><a href="!--￼0--&gt;/1020">1020</a> 大数求模</li>
+<li><a href="!--￼1--&gt;/1021">1021</a> 简单题 -&gt; 规模原来很大]]>
+    </summary>
+    
+  </entry>
+  
+</feed>
