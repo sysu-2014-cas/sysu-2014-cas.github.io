@@ -4,7 +4,7 @@
   <subtitle><![CDATA[SYSU, School of Software, Computer Application Software, Class 2014]]></subtitle>
   <link href="/atom.xml" rel="self"/>
   <link href="http://sysu-2014-cas.github.io/"/>
-  <updated>2015-03-13T16:38:47.000Z</updated>
+  <updated>2015-03-13T17:09:56.000Z</updated>
   <id>http://sysu-2014-cas.github.io/</id>
   
   <author>
@@ -13,6 +13,46 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title><![CDATA[各科课程主页]]></title>
+    <link href="http://sysu-2014-cas.github.io/2015/03/14/course-pages/"/>
+    <id>http://sysu-2014-cas.github.io/2015/03/14/course-pages/</id>
+    <published>2015-03-13T17:06:35.000Z</published>
+    <updated>2015-03-13T17:09:56.000Z</updated>
+    <content type="html"><![CDATA[<ul>
+<li><a href="http://my.ss.sysu.edu.cn/courses/sqa" target="_blank" rel="external">软件测试</a></li>
+<li><a href="http://my.ss.sysu.edu.cn/wiki/display/SPSP/SE-386+Software+Process+Improvement+Home" target="_blank" rel="external">软件过程改进 wiki</a></li>
+<li><a href="http://ss.sysu.edu.cn/~pml/se305/2015sp/" target="_blank" rel="external">系统分析与设计</a></li>
+<li><a href="http://ss.sysu.edu.cn/~zk/teaching-2/computer-vision-and-pattern-recognition.html" target="_blank" rel="external">计算机视觉</a></li>
+<li><a href="http://ss.sysu.edu.cn/~gcy/teaching/Computer%20Graphics%282015%29/home.html" target="_blank" rel="external">计算机图形学</a></li>
+</ul>
+]]></content>
+    <summary type="html">
+    <![CDATA[<ul>
+<li><a href="http://my.ss.sysu.edu.cn/courses/sqa" target="_blank" rel="external">软件测试</a></li>
+<li><a href="http://my.ss.sysu.edu.cn/w]]>
+    </summary>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[春季学期第二周作业]]></title>
+    <link href="http://sysu-2014-cas.github.io/2015/03/14/spring-hw-week2/"/>
+    <id>http://sysu-2014-cas.github.io/2015/03/14/spring-hw-week2/</id>
+    <published>2015-03-13T17:02:06.000Z</published>
+    <updated>2015-03-13T17:08:05.000Z</updated>
+    <content type="html"><![CDATA[<p>春季学期第二周作业</p>
+<h3 id="虚拟现实">虚拟现实</h3><p>DIY 一个立体观测器</p>
+<h3 id="软件过程改进">软件过程改进</h3><p>参考<a href="http://my.ss.sysu.edu.cn/wiki/display/SPSP/Lab+02.+Table+Sorter" target="_blank" rel="external">课程wiki</a>，周六晚 20:00 停止提交小组 pull request</p>
+]]></content>
+    <summary type="html">
+    <![CDATA[<p>春季学期第二周作业</p>
+<h3 id="虚拟现实">虚拟现实</h3><p>DIY 一个立体观测器</p>
+<h3 id="软件过程改进">软件过程改进</h3><p>参考<a href="http://my.ss.sysu.edu.cn/wiki/display/SP]]>
+    </summary>
+    
+  </entry>
   
   <entry>
     <title><![CDATA[第十周作业]]></title>
