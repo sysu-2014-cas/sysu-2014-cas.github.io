@@ -4,7 +4,7 @@
   <subtitle><![CDATA[SYSU, School of Software, Computer Application Software, Class 2014]]></subtitle>
   <link href="/atom.xml" rel="self"/>
   <link href="http://sysu-2014-cas.github.io/"/>
-  <updated>2015-03-13T17:09:56.000Z</updated>
+  <updated>2015-03-22T09:06:28.924Z</updated>
   <id>http://sysu-2014-cas.github.io/</id>
   
   <author>
@@ -15,11 +15,48 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
+    <title><![CDATA[春季学期第三周作业]]></title>
+    <link href="http://sysu-2014-cas.github.io/2015/03/22/spring-hw-week3/"/>
+    <id>http://sysu-2014-cas.github.io/2015/03/22/spring-hw-week3/</id>
+    <published>2015-03-22T08:25:06.000Z</published>
+    <updated>2015-03-22T09:06:28.924Z</updated>
+    <content type="html"><![CDATA[<h3 id="数据挖掘">数据挖掘</h3><p>近期会布置第一个作业。四个作业都是用<a href="https://www.kaggle.com/" target="_blank" rel="external">Kaggle</a>上的题。</p>
+<h3 id="虚拟现实">虚拟现实</h3><p>老师本周病遁，DIY下周交</p>
+<h3 id="软件测试">软件测试</h3><p>老师表示可以开始准备第一个大作业了，详情见度盘里的作业说明，注意挑选有产品手册的开源软件作为测试目标。</p>
+<p>按照老师第一节课的课件推测大概第一个大作业展示时间在第 10 周左右……</p>
+<h3 id="软件过程改进">软件过程改进</h3><p>参见<a href="http://my.ss.sysu.edu.cn/wiki/display/SPSP/SE-386+Software+Process+Improvement+Home" target="_blank" rel="external">课程 wiki</a></p>
+<h3 id="计算机视觉与模式识别">计算机视觉与模式识别</h3><ul>
+<li>第一个 project：自动识别图中A4纸并矫正形状<ul>
+<li>deadline: 4.19</li>
+<li>说明与数据集见<a href="http://ss.sysu.edu.cn/~zk/teaching-2/computer-vision-and-pattern-recognition.html" target="_blank" rel="external">课程主页</a></li>
+</ul>
+</li>
+</ul>
+<h3 id="计算机图形学">计算机图形学</h3><ul>
+<li>第二个作业：配置 OpenGL 环境，随意画一些东西<ul>
+<li>deadline: 4.3</li>
+<li>参考<a href="http://ss.sysu.edu.cn/~gcy/teaching/Computer%20Graphics%282015%29/assignment2.pdf" target="_blank" rel="external">课程主页</a></li>
+</ul>
+</li>
+<li>老师已预告第三个作业是用 Bresenham 算法画一个圆</li>
+</ul>
+<h3 id="软件设计综合实验">软件设计综合实验</h3><ul>
+<li>参考度盘里的说明，4.30 前需要完成组队，可以使用其他课程的作业提交</li>
+</ul>
+]]></content>
+    <summary type="html">
+    <![CDATA[<h3 id="数据挖掘">数据挖掘</h3><p>近期会布置第一个作业。四个作业都是用<a href="https://www.kaggle.com/" target="_blank" rel="external">Kaggle</a>上的题。</p>
+<h3 id="虚拟现实]]>
+    </summary>
+    
+  </entry>
+  
+  <entry>
     <title><![CDATA[各科课程主页]]></title>
     <link href="http://sysu-2014-cas.github.io/2015/03/14/course-pages/"/>
     <id>http://sysu-2014-cas.github.io/2015/03/14/course-pages/</id>
     <published>2015-03-13T17:06:35.000Z</published>
-    <updated>2015-03-13T17:09:56.000Z</updated>
+    <updated>2015-03-13T17:09:56.036Z</updated>
     <content type="html"><![CDATA[<ul>
 <li><a href="http://my.ss.sysu.edu.cn/courses/sqa" target="_blank" rel="external">软件测试</a></li>
 <li><a href="http://my.ss.sysu.edu.cn/wiki/display/SPSP/SE-386+Software+Process+Improvement+Home" target="_blank" rel="external">软件过程改进 wiki</a></li>
@@ -41,7 +78,7 @@
     <link href="http://sysu-2014-cas.github.io/2015/03/14/spring-hw-week2/"/>
     <id>http://sysu-2014-cas.github.io/2015/03/14/spring-hw-week2/</id>
     <published>2015-03-13T17:02:06.000Z</published>
-    <updated>2015-03-13T17:08:05.000Z</updated>
+    <updated>2015-03-13T17:08:05.843Z</updated>
     <content type="html"><![CDATA[<p>春季学期第二周作业</p>
 <h3 id="虚拟现实">虚拟现实</h3><p>DIY 一个立体观测器</p>
 <h3 id="软件过程改进">软件过程改进</h3><p>参考<a href="http://my.ss.sysu.edu.cn/wiki/display/SPSP/Lab+02.+Table+Sorter" target="_blank" rel="external">课程wiki</a>，周六晚 20:00 停止提交小组 pull request</p>
@@ -59,7 +96,7 @@
     <link href="http://sysu-2014-cas.github.io/2014/11/28/hw-week10/"/>
     <id>http://sysu-2014-cas.github.io/2014/11/28/hw-week10/</id>
     <published>2014-11-27T16:00:00.000Z</published>
-    <updated>2015-03-13T16:38:47.000Z</updated>
+    <updated>2015-03-13T16:38:47.296Z</updated>
     <content type="html"><![CDATA[<h3 id="算法分析与设计">算法分析与设计</h3><ul>
 <li><a href="!--￼0--">郭老11月大礼包</a></li>
 <li><a href="!--￼1--&gt;/1153">1153</a> 马周游问题 解题报告</li>
@@ -110,7 +147,7 @@
     <link href="http://sysu-2014-cas.github.io/2014/11/21/hw-week9/"/>
     <id>http://sysu-2014-cas.github.io/2014/11/21/hw-week9/</id>
     <published>2014-11-20T16:00:00.000Z</published>
-    <updated>2015-03-13T16:38:47.000Z</updated>
+    <updated>2015-03-13T16:38:47.295Z</updated>
     <content type="html"><![CDATA[<h3 id="算法分析与设计">算法分析与设计</h3><ul>
 <li><a href="!--￼0--">郭老11月大礼包</a></li>
 <li><a href="!--￼1--&gt;/1153">1153</a> 马周游问题 解题报告</li>
@@ -166,7 +203,7 @@
     <link href="http://sysu-2014-cas.github.io/2014/11/18/disqus/"/>
     <id>http://sysu-2014-cas.github.io/2014/11/18/disqus/</id>
     <published>2014-11-17T16:00:00.000Z</published>
-    <updated>2015-03-13T16:38:47.000Z</updated>
+    <updated>2015-03-13T16:38:47.293Z</updated>
     <content type="html"><![CDATA[<p>注册了一个disqus，现在可以评论啦~</p>
 ]]></content>
     <summary type="html">
@@ -181,7 +218,7 @@
     <link href="http://sysu-2014-cas.github.io/2014/11/16/hw-week8/"/>
     <id>http://sysu-2014-cas.github.io/2014/11/16/hw-week8/</id>
     <published>2014-11-15T16:00:00.000Z</published>
-    <updated>2015-03-13T16:38:47.000Z</updated>
+    <updated>2015-03-13T16:38:47.292Z</updated>
     <content type="html"><![CDATA[<h3 id="算法分析与设计">算法分析与设计</h3><ul>
 <li><a href="!--￼1--">郭老11月大礼包</a></li>
 <li><a href="!--￼2--&gt;/1153">1153</a> 马周游问题 解题报告</li>
@@ -248,7 +285,7 @@
     <link href="http://sysu-2014-cas.github.io/2014/10/26/hw-week5/"/>
     <id>http://sysu-2014-cas.github.io/2014/10/26/hw-week5/</id>
     <published>2014-10-25T16:00:00.000Z</published>
-    <updated>2015-03-13T16:38:47.000Z</updated>
+    <updated>2015-03-13T16:38:47.274Z</updated>
     <content type="html"><![CDATA[<h3 id="算法分析与设计">算法分析与设计</h3><ul>
 <li><a href="!--￼0--&gt;/1151">1151</a> 魔板B 解题报告</li>
 <li>报告格式见第一个ppt</li>
@@ -314,7 +351,7 @@
     <link href="http://sysu-2014-cas.github.io/2014/10/14/hw-week4/"/>
     <id>http://sysu-2014-cas.github.io/2014/10/14/hw-week4/</id>
     <published>2014-10-13T16:00:00.000Z</published>
-    <updated>2015-03-13T16:38:47.000Z</updated>
+    <updated>2015-03-13T16:38:47.271Z</updated>
     <content type="html"><![CDATA[<h3 id="算法分析与设计">算法分析与设计</h3><ul>
 <li><a href="!--￼0--">郭老10月大礼包</a>，30号前交1151解题报告。</li>
 <li><a href="!--￼1--">郭老11月大礼包</a>，11月月底交。</li>
@@ -353,7 +390,7 @@
     <link href="http://sysu-2014-cas.github.io/2014/10/14/algorithm-oct-nov/"/>
     <id>http://sysu-2014-cas.github.io/2014/10/14/algorithm-oct-nov/</id>
     <published>2014-10-13T16:00:00.000Z</published>
-    <updated>2015-03-13T16:38:47.000Z</updated>
+    <updated>2015-03-13T16:38:47.268Z</updated>
     <content type="html"><![CDATA[<p>10月14题，30号前交1151解题报告：<a href="!--￼0--">参见</a></p>
 <p>11月24题：</p>
 <ul>
@@ -398,7 +435,7 @@
     <link href="http://sysu-2014-cas.github.io/2014/10/01/hw-week2/"/>
     <id>http://sysu-2014-cas.github.io/2014/10/01/hw-week2/</id>
     <published>2014-09-30T16:00:00.000Z</published>
-    <updated>2015-03-13T16:38:47.000Z</updated>
+    <updated>2015-03-13T16:38:47.265Z</updated>
     <content type="html"><![CDATA[<h3 id="算法分析与设计">算法分析与设计</h3><ol>
 <li><p>例2.1 输入一串字符，以”?”结束,统计其中每个字符出现的次数.</p>
 <p> 1.考虑数据结构:用一维数组存放每个字母出现的次数,定义一个由26个字母组成的数组：</p>
@@ -462,7 +499,7 @@
     <link href="http://sysu-2014-cas.github.io/2014/09/27/hw-week1/"/>
     <id>http://sysu-2014-cas.github.io/2014/09/27/hw-week1/</id>
     <published>2014-09-26T16:00:00.000Z</published>
-    <updated>2015-03-13T16:38:47.000Z</updated>
+    <updated>2015-03-13T16:38:47.255Z</updated>
     <content type="html"><![CDATA[<h3 id="算法分析与设计">算法分析与设计</h3><ul>
 <li><a href="!--￼0--&gt;/1020">1020</a> 大数求模</li>
 <li><a href="!--￼1--&gt;/1021">1021</a> 简单题 -&gt; 规模原来很大 -&gt; 难 -&gt;数据结构: 栈</li>

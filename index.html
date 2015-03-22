@@ -108,6 +108,97 @@
           
           
             
+              <a class="post-title-link" href="/2015/03/22/spring-hw-week3/">
+                春季学期第三周作业
+              </a>
+            
+          
+        </h1>
+      
+
+      <div class="post-meta">
+          <span class="post-time">
+            
+              发表于 2015-03-22
+            
+          </span>
+        
+          
+            <span class="post-comments-count">
+            &nbsp; | &nbsp;
+            <a href="/2015/03/22/spring-hw-week3/#comments" >
+              <span class="post-comments-count disqus-comment-count" data-disqus-identifier="2015/03/22/spring-hw-week3/"></span>
+            </a>
+          </span>
+          
+        
+      </div>
+    </div>
+
+    
+      <div class="post-body">
+
+        
+        
+
+        
+          
+            <h3 id="数据挖掘">数据挖掘</h3><p>近期会布置第一个作业。四个作业都是用<a href="https://www.kaggle.com/" target="_blank" rel="external">Kaggle</a>上的题。</p>
+<h3 id="虚拟现实">虚拟现实</h3><p>老师本周病遁，DIY下周交</p>
+<h3 id="软件测试">软件测试</h3><p>老师表示可以开始准备第一个大作业了，详情见度盘里的作业说明，注意挑选有产品手册的开源软件作为测试目标。</p>
+<p>按照老师第一节课的课件推测大概第一个大作业展示时间在第 10 周左右……</p>
+<h3 id="软件过程改进">软件过程改进</h3><p>参见<a href="http://my.ss.sysu.edu.cn/wiki/display/SPSP/SE-386+Software+Process+Improvement+Home" target="_blank" rel="external">课程 wiki</a></p>
+<h3 id="计算机视觉与模式识别">计算机视觉与模式识别</h3><ul>
+<li>第一个 project：自动识别图中A4纸并矫正形状<ul>
+<li>deadline: 4.19</li>
+<li>说明与数据集见<a href="http://ss.sysu.edu.cn/~zk/teaching-2/computer-vision-and-pattern-recognition.html" target="_blank" rel="external">课程主页</a></li>
+</ul>
+</li>
+</ul>
+<h3 id="计算机图形学">计算机图形学</h3><ul>
+<li>第二个作业：配置 OpenGL 环境，随意画一些东西<ul>
+<li>deadline: 4.3</li>
+<li>参考<a href="http://ss.sysu.edu.cn/~gcy/teaching/Computer%20Graphics%282015%29/assignment2.pdf" target="_blank" rel="external">课程主页</a></li>
+</ul>
+</li>
+<li>老师已预告第三个作业是用 Bresenham 算法画一个圆</li>
+</ul>
+<h3 id="软件设计综合实验">软件设计综合实验</h3><ul>
+<li>参考度盘里的说明，4.30 前需要完成组队，可以使用其他课程的作业提交</li>
+</ul>
+
+          
+        
+      </div>
+    
+
+    
+      <div class="post-footer">
+        
+
+        
+
+        
+        
+          <div class="post-eof"></div>
+        
+      </div>
+    
+  </div>
+
+
+  
+    
+
+  <div class="post post-type-normal ">
+    <div class="post-header">
+
+      
+      
+        <h1 class="post-title">
+          
+          
+            
               <a class="post-title-link" href="/2015/03/14/course-pages/">
                 各科课程主页
               </a>
@@ -946,122 +1037,6 @@
 
 
   
-    
-
-  <div class="post post-type-normal ">
-    <div class="post-header">
-
-      
-      
-        <h1 class="post-title">
-          
-          
-            
-              <a class="post-title-link" href="/2014/10/01/hw-week2/">
-                第二周作业
-              </a>
-            
-          
-        </h1>
-      
-
-      <div class="post-meta">
-          <span class="post-time">
-            
-              发表于 2014-09-30
-            
-          </span>
-        
-          
-            <span class="post-comments-count">
-            &nbsp; | &nbsp;
-            <a href="/2014/10/01/hw-week2/#comments" >
-              <span class="post-comments-count disqus-comment-count" data-disqus-identifier="2014/10/01/hw-week2/"></span>
-            </a>
-          </span>
-          
-        
-      </div>
-    </div>
-
-    
-      <div class="post-body">
-
-        
-        
-
-        
-          
-            <h3 id="算法分析与设计">算法分析与设计</h3><ol>
-<li><p>例2.1 输入一串字符，以”?”结束,统计其中每个字符出现的次数.</p>
-<p> 1.考虑数据结构:用一维数组存放每个字母出现的次数,定义一个由26个字母组成的数组：</p>
-<pre><code>Num:<span class="keyword">array</span>[<span class="attribute">'a</span>'..<span class="literal">'z'</span>]<span class="keyword">of</span> <span class="typename">integer</span>
-</code></pre><p> 用<code>Num[&#39;a&#39;]</code>记录字母a出现次数，…… 用<code>Num[&#39;z&#39;]</code>记录字母z出现次数;</p>
-<p> 2.算法：</p>
-<pre><code><span class="number">1</span>）将数组元素清<span class="number">0</span>
-<span class="number">2</span>）读入第<span class="number">1</span>个字符;
-<span class="number">3</span>）<span class="keyword">WHILE</span> 读入字符不等于‘？’ <span class="keyword">DO</span>
-<span class="keyword">BEGIN</span>
-    <span class="number">4</span>）<span class="keyword">IF</span> ch 是字母 <span class="keyword">THEN</span> 相应字母计数加<span class="number">1</span>
-    <span class="number">5</span>）读入下一个字符
-<span class="keyword">END</span>
-<span class="number">6</span>）输出每个字母出现的次数。
-</code></pre><ol>
-<li><p>要求上机编程，用C++完成上述程序，并自行在机上运行，检测程序的正确性。</p>
-</li>
-<li><p>将题目改成从文件读入，输出到文件中。要求有5组测试数据，文件输入：</p>
-<ol>
-<li>第一组：10个字符；</li>
-<li>第二组：100个字符；</li>
-<li>第三组：1000个字符</li>
-<li>第四组：10000个字符；</li>
-<li><p>第五组：10万个字符；</p>
-<p>数据随机产生。</p>
-</li>
-</ol>
-</li>
-</ol>
-</li>
-</ol>
-<ol>
-<li><p>作业2.2 :简单魔板(<a href="!--￼0--&gt;/1150">sicily1150</a>)</p>
-<p> （思路请直接看课件OTZ 排版不动了）</p>
-</li>
-<li><a href="!--￼1--&gt;/1151">1151</a> 魔板B，<strong>要求写解题报告</strong></li>
-<li><a href="!--￼2--&gt;/1515">1515</a> 魔板C</li>
-<li><a href="!--￼3--&gt;/1007">1007</a> 数组与下标（二维数组） 简单</li>
-<li><a href="!--￼4--&gt;/1036">1036</a> 数组与下标（二维数组） 简单</li>
-<li><a href="!--￼5--&gt;/1006">1006</a> 栈与回溯 简单  5!搜索</li>
-<li><a href="!--￼6--&gt;/1009">1009</a> 梅森素数</li>
-<li><a href="!--￼7--&gt;/1050">1050</a> 回溯， DFS求5个数可否运算得到目标数, 否则输出可得到的小于目标数的最大数.</li>
-<li><a href="!--￼8--&gt;/1443">1443</a> 基本队列操作</li>
-<li><a href="!--￼9--&gt;/1156">1156</a> 深优 指针 简单树的遍历</li>
-<li><a href="!--￼10--&gt;/1063">1063</a> 排序后递推</li>
-<li><a href="!--￼11--&gt;/1024">1024</a> 树的遍历</li>
-<li>作业3.1 Sicily <a href="!--￼12--&gt;/1152">1152</a> 简单的马周游问题</li>
-</ol>
-
-          
-        
-      </div>
-    
-
-    
-      <div class="post-footer">
-        
-
-        
-
-        
-        
-          <div class="post-eof"></div>
-        
-      </div>
-    
-  </div>
-
-
-  
 
           </div>
 
@@ -1094,7 +1069,7 @@
       <p class="site-description motion-element">这里是12级计应的主页</p>
       <div class="site-state motion-element">
         <div class="site-state-item site-state-posts">
-          <span class="site-state-item-count">11</span>
+          <span class="site-state-item-count">12</span>
           <span class="site-state-item-name">日志</span>
         </div>
         <div class="site-state-item site-state-tags">
